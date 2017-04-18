@@ -3,7 +3,7 @@
 ## Motivation
 
 The DDE(Deepin Desktop Environment) not have a method to
- customize switching between workspaces, then make one!
+ customize switching between workspaces, then I make one!
 
 ## Dependencies
 
@@ -12,7 +12,7 @@ The DDE(Deepin Desktop Environment) not have a method to
 
 ## Setup the script
 
-    python setup
+    python setup.py
 
 ## Usage 
 
