@@ -1,6 +1,6 @@
-""" This file execute de switch betten workspaces. """
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
+""" This file execute de switch betten workspaces. """
 from subprocess import run
 import os
 
