@@ -4,7 +4,7 @@
 import os
 from shutil import copy
 
-ROOT_DIR = os.environ['HOME'] + '/.workspace-switch'
+ROOT_DIR = os.environ['HOME'] + '/.workspace-switcher'
 os.system('mkdir ' + ROOT_DIR)
 
 # Create workspace file

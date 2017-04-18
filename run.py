@@ -4,7 +4,7 @@
 from subprocess import run
 import os
 
-ROOT_DIR = os.environ['HOME'] + '/.workspace-switch'
+ROOT_DIR = os.environ['HOME'] + '/.workspace-switcher'
 FILE = open(ROOT_DIR + '/workspaces', 'r')
 
 EXEC = 'xdotool get_desktop'
