@@ -1,0 +1,6 @@
+- [ ] Create a setup file
+    - [ ] Dispense a setup file
+- [ ] Switch between two workspaces
+- [ ] Switch to last workspace active
+- [ ] Switch to next workspace(infinite)
+- [ ] Use system variables
