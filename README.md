@@ -16,4 +16,4 @@ The DDE(Deepin Desktop Environment) not have a method to
 
 ## Usage 
 
-Just reference your shorcut to this file. Enjoy!
+Just reference your shorcut to file: `$HOME/.workspace-switcher/run.py`. Enjoy!
