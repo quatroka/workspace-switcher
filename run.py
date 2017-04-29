@@ -16,12 +16,3 @@ run(EXEC, shell=True)
 print(ACTUAL_DESKTOP)
 print(NUM_DESKTOPS)
 
-# ROOT_DIR = os.environ['HOME'] + '/.workspace-switcher'
-# FILE = open(ROOT_DIR + '/workspaces', 'w')
-# FILE.write(str(ACTUAL_DESKTOP + 1))
-# FILE.close()
-
-# FILE = open(ROOT_DIR + '/workspaces', 'r')
-# FILE.close()
-# # ACTUAL_DESKTOP = int(FILE.read())
-# run('xdotool get_desktop', shell=True)
